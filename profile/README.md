@@ -16,8 +16,8 @@ O projeto é dividido em três principais partes:
 
 ## Diagrama da Arquitetura
 
-> Diagrama Arquitetural
-> <blockquote class="imgur-embed-pub" lang="en" data-id="a/SNSyEyL"><a href="//imgur.com/SNSyEyL">CRUD-Mads Diagrama</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+> [Diagrama Arquitetural](https://i.imgur.com/spUPo9d.png)
+
 
 ---
 
