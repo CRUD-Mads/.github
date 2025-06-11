@@ -6,9 +6,9 @@ Este repositório representa a organização do projeto desenvolvido para a disc
 
 O projeto é dividido em três principais partes:
 
-- [Front](https://github.com/CEUB-Mads/front) — Interface web do sistema.
-- [Gateway](https://github.com/CEUB-Mads/gateway) — Responsável por intermediar requisições entre front e serviços.
-- [API Services](https://github.com/CEUB-Mads/api_services) — Conjunto de serviços com as regras de negócio e acesso ao banco de dados.
+- [Front](https://github.com/CRUD-Mads/front) — Interface web do sistema.
+- [Gateway](https://github.com/CRUD-Mads/gateway) — Responsável por intermediar requisições entre front e serviços.
+- [API Services](https://github.com/CRUD-Mads/api_services) — Conjunto de serviços com as regras de negócio e acesso ao banco de dados.
 
 ## Collection do Postman
 
