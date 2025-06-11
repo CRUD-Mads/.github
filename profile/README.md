@@ -16,7 +16,7 @@ O projeto é dividido em três principais partes:
 
 ## Diagrama da Arquitetura
 
-> [Insira aqui o diagrama ilustrando a arquitetura do projeto]
+> [Diagrama Arquitetural](https://imgur.com/a/SNSyEyL)
 
 ---
 
